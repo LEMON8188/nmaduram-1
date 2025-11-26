@@ -23,7 +23,7 @@ function App() {
       <h5>sgregrege</h5>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
+          bos unii{count}
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
